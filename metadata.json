@@ -1,0 +1,6 @@
+{
+  "name": "VALKYRIE 3D CHESS - リアル戦術チェス",
+  "description": "精巧な武器を携えた3D駒とリアルな質感の盤面で楽しむ次世代チェス。安全・効き・違反マスの可視化、攻撃・防衛・孤立による動的武器構え/震えモーション、AI対戦・Chess.com連携・オンライン対戦・対戦分析機能を完備。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
